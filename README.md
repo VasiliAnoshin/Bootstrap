@@ -8,3 +8,5 @@ Bootstrap CDN font link :
 https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 
 <img width="1233" alt="2017 06 14 19 34 14" src="https://user-images.githubusercontent.com/9945039/27144127-62bd489c-5139-11e7-84c2-0178d635670a.png">
+
+<img width="1203" alt="2017 06 14 19 35 08" src="https://user-images.githubusercontent.com/9945039/27144283-e7754de6-5139-11e7-8647-f16d5ced77d3.png">
