@@ -2,7 +2,7 @@ Bootstrap:
 http://getbootstrap.com
 
 Free Ui Gradients:
-https://uigradients.com/#WhatliesBeyond
+https://uigradients.com/
 
 Free images resource : 
 https://unsplash.com/
